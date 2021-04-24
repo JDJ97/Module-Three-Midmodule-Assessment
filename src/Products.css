@@ -1,0 +1,11 @@
+.Products {
+    display: grid;
+}
+.Products ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} 
+
+.Products li{
+    width: 80%;
+} 
